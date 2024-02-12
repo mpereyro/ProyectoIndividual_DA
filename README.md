@@ -228,17 +228,41 @@ En esta fase culminante, hemos materializado un dashboard interactivo que no sol
 
 Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias(detalle:[Notebook](Preparacion_SQL.ipynb)).  Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench(detalle:[SQL](SQL/ENACOM.sql))  y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
 
-**Penetración de Internet por Provincia:**
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da1.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da1.jpg" >
+  </a>
+</p>
 
-    - Definición: Porcentaje de hogares con acceso a Internet en relación con el total de hogares en cada provincia.
-    - Fórmula:  ((Nuevo acceso - Acceso actual) / Acceso actual) * 100
-    - Objetivo: umentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
-          
-**Crecimiento de Ingresos por Tecnología:**
 
-    - Definición: Tasa de cambio porcentual en los ingresos generados por cada tecnología en comparación con el año anterior.
-    - Fórmula: ((Ingresos actuales - Ingresos anteriores) / Ingresos anteriores) * 100
-    - Objetivo: Identificar tecnologías que están experimentando un crecimiento significativo y enfocar los esfuerzos en su expansión.
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da2).jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da2.jpg" >
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da3.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da3.jpg" >
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da4.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da4.jpg" >
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da5.jpg">
+    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da5.jpg" >
+  </a>
+</p>
+
+
 
 Dataset que utilizamos en **POWER BI** : [Data_SQL](datasets_SQL)
 **Tecnologías clave:** Power BI, Lenguaje DAX, Integración de datos a Power BI mediante Python
