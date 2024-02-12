@@ -92,8 +92,8 @@ En 2014, la penetración de Internet fijo representaba el 35%, y para el año 20
 Este marcado incremento no solo es evidente al comparar cifras a lo largo del período, sino que también se destaca dentro del mismo año, con variaciones significativas en distintos trimestres.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%201.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%201.jpg" >
   </a>
 </p>
 
@@ -103,8 +103,8 @@ como las fluctuaciones trimestrales. La duplicación en la cantidad de habitante
 con mayor detenimiento y precisar las áreas clave para nuestro enfoque estratégico por provincia, nos centraremos en la Distribución de Accesos a Internet en hogares por Provincia.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen2.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen2.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen2.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen2.jpg" >
   </a>
 </p>
 
@@ -123,8 +123,8 @@ panorama de las telecomunicaciones
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen3.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen3.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen3.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen3.jpg" >
   </a>
 </p>
 ### Tipo de tecnologías:
@@ -133,8 +133,8 @@ Se observa  a nivel nacional un crecimiento sostenido en el uso de tecnologías 
 especialmente debido a las velocidades significativamente altas que ofrecen.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%204.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%204.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%204.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%204.jpg" >
   </a>
 </p>
 
@@ -175,8 +175,8 @@ Este análisis se enfoca en todas las tecnologías de telecounicaciones por prov
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen5.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen5.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen5.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen5.jpg" >
   </a>
 </p>
 
@@ -201,8 +201,8 @@ especialmente a través de tecnologías como la Fibra Óptica, demuestra un camb
 El siguiente gráfico nos revela patrones significativos en los ingresos derivados de los servicios de Internet fijo, TV por suscripción, TV satelital y telefonía fija a lo largo del periodo estudiado.
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201%20(2).jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/imagen%201%20(2).jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%201%20(2).jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/imagen%201%20(2).jpg" >
   </a>
 </p>
 Hasta el año 2021, la telefonía fija experimentó un crecimiento notable, indicando posiblemente una demanda continua de servicios de comunicación tradicionales. Este fenómeno podría estar vinculado 
@@ -229,36 +229,37 @@ En esta fase culminante, hemos materializado un dashboard interactivo que no sol
 Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar la data que utilizariamos de manera óptima, incluyendo la asignación de identificadores a las provincias(detalle:[Notebook](Preparacion_SQL.ipynb)).  Posteriormente, establecimos una base de datos en un motor SQL, donde ingresamos los datasets procesado para utilizarlos como fuente de datos en nuestro dashboard en Power BI. Ejecutamos scripts de Python directamente en MySQL Workbench(detalle:[SQL](SQL/ENACOM.sql))  y finalmente creamos un dashboard interactivo diseñado para explorar opciones en los datasets y en donde definimos lo KPIs: 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da1.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da1.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da1.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da1.jpg" >
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da2).jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da2.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da2.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da2.jpg" >
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da3.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da3.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da3.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da3.jpg" >
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da4.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da4.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da4.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da4.jpg
+" >
   </a>
 </p>
 
 
 <p align="center">
-  <a href="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da5.jpg">
-    <img src="https://github.com/roscha10/DataAnalytics_ENACOM/blob/main/Images/da5.jpg" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da5.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da5.jpg" >
   </a>
 </p>
 
