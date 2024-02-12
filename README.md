@@ -2,7 +2,7 @@
  <b>Análisis del Mercado de Telecomunicaciones Argentino </b>
 </h1>
 
-**`Autor: Roberto Schaefer`**
+**`Autor: Mauro Pereyro`**
 [LinkedIn](https://www.linkedin.com/in/mauro-pereyro//)
 
 ## **Introducción**</h2>
