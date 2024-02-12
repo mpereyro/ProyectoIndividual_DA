@@ -250,9 +250,8 @@ Nuestro proceso comenzó con la creación de un Jupyter Notebook para organizar 
 
 
 <p align="center">
-  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da4.jpg">
-    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/bef5ccf66c0ae3b8248662eca58f29a777d87f3c/Images/da4.jpg
-" >
+  <a href="https://github.com/mpereyro/ProyectoIndividual_DA/blob/754e4b3bd17a4d892a185b6da24e927c9dc4c8cb/Images/da4.jpg">
+    <img src="https://github.com/mpereyro/ProyectoIndividual_DA/blob/754e4b3bd17a4d892a185b6da24e927c9dc4c8cb/Images/da4.jpg" >
   </a>
 </p>
 
